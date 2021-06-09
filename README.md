@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=ploritto" alt="sujal-ops-cyber" />
 
 
-![Discord](https://discord.c99.nl/widget/theme-2/776714971782053889.png)
+![Discord](https://discord.c99.nl/widget/theme-2/619154212328046602.png)
 
 
 <a href="https://starbots.ml/dc">
@@ -16,7 +16,7 @@
   <img align="left" alt="Plorittod Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://discord.com/users/619154212328046602">
-    <img src="https://img.shields.io/badge/bdrxzzz.%233614-%237289da?logo=discord&style=flat-square" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Ploritto%232675-%237289da?logo=discord&style=flat-square" alt="Discord"/>
   </a>
 </p>
                                                                                                                                
